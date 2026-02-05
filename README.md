@@ -60,4 +60,4 @@ Experience in refactoring and improving maintainability of code
 ## Screenshots
 
 ### Team Selection
-![Team Selection](screenshots/team_selection.png)
+![Team Selection](screenshots/match_sim_clip.mov)

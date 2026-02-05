@@ -55,7 +55,6 @@ Experience in refactoring and improving maintainability of code
 - Transition to a graphical version using Pygame
 - Add AI managers for competitive simulation
 - Export stats and league tables to files
-- Screenshot / Gameplay Sample
 
 ## Screenshots
 
